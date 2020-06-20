@@ -1,0 +1,17 @@
+{
+    "name": "rajesh/builder",
+    "description": "builder pattern in php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raj",
+            "email": "rj.iosum@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    }
+}
